@@ -1,5 +1,8 @@
 # ML-project-York-Univerity
-Credit card customer analysis, Churn Prediction using unsupervised Machine learning 
+Credit card customer analysis, 
+
+Churn Prediction using unsupervised Machine learning.
+
 This project is done in a series of phases, the first of which involves an exploratory data analysis, 
 where the objective is to know the nature of the variables and to examine attributes that indicate a strong relationship with leaving credit card services. 
 The next phase involves applying a machine-learning algorithm to find the best properties for building the model. 
